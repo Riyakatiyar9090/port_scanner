@@ -28,7 +28,6 @@ git clone https://github.com/Riyakatiyar9090/port_scanner<br>
 python port_scanner.py<br>
 Enter target IP when asked.<br>
 <br>
-<br>
 <h3><b>🌐Disclaimer</h3></b>
 Use this tool only on systems you own or have permission to test.<br>
 Unauthorized scanning is illegal.<br>
