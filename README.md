@@ -23,7 +23,7 @@ This helps identify which services are running on a target machine.<br>
 Install Python 3.x  <br>
 Clone the repository:<br>
 git clone https://github.com/Riyakatiyar9090/port_scanner<br>
-
+<br>
 <h3><b>🎨How to run</h3></b>
 python port_scanner.py<br>
 Enter target IP when asked.<br>
