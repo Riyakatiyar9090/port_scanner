@@ -1,4 +1,4 @@
-<h3><b></b>Simple Python Port Scanner</h3></b><br>
+<h3><b></b>💡Simple Python Port Scanner</h3></b><br>
 A lightweight Python-based Port Scanner that checks open ports on a target system. It helps identify active services like SSH, HTTP, MySQL, etc. Useful for beginners learning cybersecurity, networking, and ethical scanning techniques.
 <br>
 <br>
@@ -8,7 +8,7 @@ A lightweight Python-based Port Scanner that checks open ports on a target syste
 🎯Detects open ports<br>
 🎯Shows service names (HTTP, SSH, MySQL, etc.)<br>
 🎯Beginner-friendly code<br>
-🎯Works on any system with Python 3<br><br>
+🎯Works on any system with Python 3<br>
 
 
 <h3><b>🧠 How It Works</h3></b><br>
